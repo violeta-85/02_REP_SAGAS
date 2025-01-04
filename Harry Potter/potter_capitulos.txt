@@ -1,8 +1,34 @@
-1	Harry Potter y la piedra filosofal
-2	Harry Potter y la cámara secreta
-3	Harry Potter y el prisionero de Azkaban
-4	
-5	
-6	
-7	
-8	
+1. Harry Potter y la Piedra Filosofal (1997)
+	El niño que vivió
+	El vidrio que desapareció
+	La carta de Hogwarts
+	El guardián de las llaves
+	Diagon Alley
+	El sombrero seleccionador
+	El juego de ajedrez mágico
+	La cueva de los dragones
+	La batalla por la piedra
+2. Harry Potter y la Cámara Secreta (1998)
+	El mensaje de la cámara
+	El viaje del autobús
+	La batalla de la cámara
+	La revelación de la verdad
+3. Harry Potter y el Prisionero de Azkaban (1999)
+	El nuevo enemigo
+	La casa de Hagrid
+	El misterio del prisionero
+	Las revelaciones
+4. Harry Potter y el Cáliz de Fuego (2000)
+	La victoria de la Copa Mundial
+	Los Juegos del Torneo
+	El misterio del cáliz
+	La batalla del Torneo
+5. Harry Potter y la Orden del Fénix (2003)
+	Los días oscuros
+	La rebelión de la Orden
+	El regreso del campeón
+6. Harry Potter y el Príncipe Mestizo (2005)
+	La revelación del príncipe
+	La lucha final
+7. Harry Potter y las Reliquias de la Muerte (2007)
+	La batalla final
