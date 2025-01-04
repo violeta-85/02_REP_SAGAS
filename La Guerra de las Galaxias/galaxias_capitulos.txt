@@ -1,1 +1,15 @@
-1	Star Wars: Episodio I - La amenaza fantasma
+Trilogía Original:
+  Star Wars: Episodio IV - Una nueva esperanza (1977)
+  Star Wars: Episodio V - El Imperio contraataca (1980)
+  Star Wars: Episodio VI - El regreso del Jedi (1983)
+Trilogía de la Precuelas:
+  Star Wars: Episodio I - La amenaza fantasma (1999)
+  Star Wars: Episodio II - El ataque de los clones (2002)
+  Star Wars: Episodio III - La venganza de los Sith (2005)
+Trilogía de la Secuelas:
+  Star Wars: Episodio VII - El despertar de la fuerza (2015)
+  Star Wars: Episodio VIII - Los últimos Jedi (2017)
+  Star Wars: Episodio IX - El ascenso de Skywalker (2019)
+Películas Independientes:
+  Rogue One: Una historia de Star Wars (2016)
+  Solo: Una historia de Star Wars (2018)
